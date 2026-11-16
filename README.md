@@ -1,7 +1,7 @@
 # TrueEdition
 
-> 🚧 **Proyecto en progreso**
+> 🚧 **Work in progress**
 
-TrueEdition está en desarrollo activo. Se espera que esté completo el **19 de noviembre de 2026**.
+TrueEdition is under active development and is expected to be complete by **November 19, 2026**.
 
-Pronto se añadirá documentación completa: descripción, instalación y uso.
+Full documentation (description, installation, and usage) is coming soon.
